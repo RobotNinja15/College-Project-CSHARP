@@ -1,0 +1,17 @@
+C:\Users\elija\source\repos\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\elija\source\repos\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\elija\source\repos\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\elija\source\repos\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Farida\Downloads\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\Farida\Downloads\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\Farida\Downloads\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\Farida\Downloads\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\Farida\Downloads\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\Farida\Downloads\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Farida\Downloads\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\Farida\Downloads\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\Farida\Downloads\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\Farida\Downloads\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Farida\Downloads\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\Farida\Downloads\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Farida\Downloads\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
